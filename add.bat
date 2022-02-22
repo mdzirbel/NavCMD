@@ -1,0 +1,1 @@
+@python "C:\Users\matth\Documents\Programming Projects\CMD Navigation\add.py" %*
